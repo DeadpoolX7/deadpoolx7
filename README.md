@@ -1,4 +1,6 @@
-<h2 align="center">Hi 👋! It's Sanju Shaw <br>and I'm a MERN stack developer.  <br>I aspire to build and work <br>with some of the best minds, intended to build something great.</h2>
+<h2 align="center">Hi 👋! It's Sanju Shaw <br>and I'm a Web Developer.  <br>I aspire to build and work <br>with some of the best minds, intended to build something great.</h2>
+
+[![An image of @deadpoolx7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/deadpoolx7)](https://holopin.io/@deadpoolx7)
 
 ###
 
@@ -15,6 +17,8 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
